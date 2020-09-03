@@ -1,0 +1,7 @@
+1>how to create the project enviroment folder
+	python -m venv {folder name}
+2>how to use virtual environment folder
+	{folder name}\Scripts\activate
+
+3>how to run server
+	python manage.py runserver
